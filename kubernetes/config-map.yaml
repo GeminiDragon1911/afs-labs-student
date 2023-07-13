@@ -5,3 +5,4 @@ metadata:
   namespace: dgallardo
 data:
   LOCATION_FEATURE_ENABLED: "False"
+  
