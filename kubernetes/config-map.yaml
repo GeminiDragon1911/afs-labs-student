@@ -4,5 +4,4 @@ metadata:
   name: feature-toggle
   namespace: dgallardo
 data:
-  LOCATION_FEATURE_ENABLED: "False"
-  
+  LOCATION_FEATURE_ENABLED: "True"
